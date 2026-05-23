@@ -17,7 +17,7 @@ A distributed real-time sentiment analysis pipeline for brand monitoring built o
 
 ## Architecture
 
-![Architecture](assets/architecture_flowchart.png)
+![Architecture](assets/architecture_flowchart1.png)
 
 ---
 
