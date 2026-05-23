@@ -17,21 +17,7 @@ A distributed real-time sentiment analysis pipeline for brand monitoring built o
 
 ## Architecture
 
-```
-Dataset (147,688 reviews)
-        ↓
-Kafka Producer  →  reviews_stream topic
-        ↓
-Spark Structured Streaming (micro-batch · 20s)
-        ↓
-VADER Sentiment Classification
-        ↓
-Sliding-Window Drift Detection (per brand · Δpoor > 15% = alert)
-        ↓
-HDFS Storage (Parquet) ─────────────────────────┐
-        ↓                                        ↓
-Streamlit Dashboard                   DistilBERT Offline Eval
-```
+![Dashboard](assets/architecture_flowchart.png)
 
 ---
 
@@ -213,6 +199,7 @@ python3 evaluate_distilbert.py
 ## Project Report
 
 📄 Research Report: [View Full Report](REPORT_LINK_HERE)
+
 
 ---
 
