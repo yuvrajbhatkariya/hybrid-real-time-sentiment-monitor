@@ -210,7 +210,10 @@ python3 evaluate_distilbert.py
 
 ---
 
-### Report 
+## Project Report
+
+📄 Research Report: [View Full Report](REPORT_LINK_HERE)
+
 ---
 
 ## Note on deployment
