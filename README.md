@@ -31,6 +31,9 @@ A distributed real-time sentiment analysis pipeline for brand monitoring built o
 | slave3 | DataNode · NodeManager · HDFS block storage |
 | secondary | Secondary NameNode |
 
+
+![Dashboard](assets/Cluster_diagram.png)
+
 ---
 
 ## Dataset
