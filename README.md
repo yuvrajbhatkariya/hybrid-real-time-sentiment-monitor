@@ -210,14 +210,7 @@ python3 evaluate_distilbert.py
 
 ---
 
-## Authors
-
-- Abhinav Nirapure — DSAI, IIIT Naya Raipur
-- Shaurya Kumar — DSAI, IIIT Naya Raipur
-- Yuvraj Bhatkariya — DSAI, IIIT Naya Raipur
-
-Supervisor: Dr. Mallikharjuna Rao K, IIIT Naya Raipur
-
+### Report 
 ---
 
 ## Note on deployment
