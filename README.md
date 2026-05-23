@@ -17,7 +17,7 @@ A distributed real-time sentiment analysis pipeline for brand monitoring built o
 
 ## Architecture
 
-![Dashboard](assets/architecture_flowchart.png)
+![Architecture](assets/architecture_flowchart.png)
 
 ---
 
@@ -32,7 +32,7 @@ A distributed real-time sentiment analysis pipeline for brand monitoring built o
 | secondary | Secondary NameNode |
 
 
-![Dashboard](assets/cluster_diagram.png)
+![cluster](assets/cluster_diagram.png)
 
 
 
@@ -162,7 +162,7 @@ python3 evaluate_distilbert.py
 
 ### Live dashboard
 
-![Dashboard](assets/dashboard_screenshot.png)
+![Dashboard](assets/dashboard.png)
 
 ### Streaming drift detection (terminal)
 
@@ -201,7 +201,7 @@ python3 evaluate_distilbert.py
 
 ## Project Report
 
-📄 Research Report: [View Full Report](REPORT_LINK_HERE)
+📄 Research Report: [View Full Report](https://drive.google.com/file/d/18dxV8aS137FWNNrNlJOqkQtOQHnwGw6I/view?usp=sharing)
 
 
 ---
@@ -209,3 +209,10 @@ python3 evaluate_distilbert.py
 ## Note on deployment
 
 This is a distributed systems research project. There is no hosted demo — the system runs on a multi-node Hadoop cluster in VirtualBox. The repository contains all source code, configuration guidance, and output screenshots to reproduce the results. A short simulation video of the live dashboard is included in the repository.
+
+## Live Demo
+
+🎥 Project Demo Video: [Watch Demo](https://drive.google.com/file/d/1dlWToSMaRsbg0Dko1WQiGTWG6OVt3zxC/view?usp=sharing)
+
+---
+
