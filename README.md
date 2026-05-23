@@ -32,9 +32,9 @@ A distributed real-time sentiment analysis pipeline for brand monitoring built o
 | secondary | Secondary NameNode |
 
 
-![Dashboard](assets/Cluster_diagram.png)
+![Dashboard](assets/cluster_diagram.png)
 
----
+
 
 ## Dataset
 
