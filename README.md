@@ -206,13 +206,11 @@ python3 evaluate_distilbert.py
 
 ---
 
-## Note on deployment
-
-This is a distributed systems research project. There is no hosted demo — the system runs on a multi-node Hadoop cluster in VirtualBox. The repository contains all source code, configuration guidance, and output screenshots to reproduce the results. A short simulation video of the live dashboard is included in the repository.
-
 ## Live Demo
 
 🎥 Project Demo Video: [Watch Demo](https://drive.google.com/file/d/1dlWToSMaRsbg0Dko1WQiGTWG6OVt3zxC/view?usp=sharing)
 
 ---
+## Note on deployment
+This is a distributed systems research project. There is no hosted demo — the system runs on a multi-node Hadoop cluster in VirtualBox. The repository contains all source code, configuration guidance, and output screenshots to reproduce the results. A short simulation video of the live dashboard is included in the repository.
 
